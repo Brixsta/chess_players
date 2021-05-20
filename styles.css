@@ -1,0 +1,34 @@
+.container {
+    margin:auto;
+    width:500px;
+    background-color:blue;
+    display:flex;
+    flex-direction:column;
+    height:600px;
+}
+
+.container h3 {
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.inputBar {
+    height:30px;
+    width:120px;
+    margin:auto;
+}
+
+.submitBtn {
+    height:30px;
+    width:120px;
+    margin:auto;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.canvas {
+    background-color:Red;
+    height:100px;
+    width:100px;
+}
